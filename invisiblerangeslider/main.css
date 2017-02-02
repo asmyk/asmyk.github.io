@@ -1,0 +1,29 @@
+/*!
+ * webpack-babel-starter
+ * 
+ * Webpack Babel Starter Kit
+ * 
+ * @version v1.0.0 - 02/02/2017
+ * @revision #97afe2a - https://github.com/topheman/webpack-babel-starter/tree/97afe2a9dcc95fb5b7627c3daf93895d174d6d23
+ * @author Christophe Rosset <tophe@topheman.com> (http://labs.topheman.com/)
+ * @copyright 2017(c) Christophe Rosset <tophe@topheman.com> (http://labs.topheman.com/)
+ * @license MIT
+ * 
+ */
+.center {
+  font-family: 'Source Sans Pro', sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+}
+
+.container {
+  width: 30rem;
+  height: 30rem;
+  background: #dddddd;
+}
+
+/*# sourceMappingURL=main.css.map*/
