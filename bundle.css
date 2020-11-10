@@ -1,0 +1,4 @@
+body{font-family:sans-serif}.main-nav{padding:20px 20px 0;background:#fff;background:rgba(255,255,255,0.9);margin:0 auto;text-align:right;z-index:100}.main-nav a{top:8px;right:6px;padding:8px 12px;color:#4ECDC4;font-size:13px;font-weight:bold;line-height:1.35;border-radius:3px;transition:.15s all;text-decoration:none}.main-nav a:hover{color:#47BBB3}.profile{display:flex;flex-direction:column;padding-top:60px;padding-bottom:20px;align-items:center}.profile .profile-photo{width:120px;height:120px;border-radius:60px}.profile h1{margin-bottom:10px;font-size:3em}.profile h2{color:#B4BAB4;margin-top:0;font-weight:lighter}
+
+
+/*# sourceMappingURL=bundle.css.map*/
