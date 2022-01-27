@@ -1,0 +1,5002 @@
+[
+    {
+        "id": "1",
+        "src": "sono",
+        "en": "I am"
+    },
+    {
+        "id": "2",
+        "src": "io",
+        "en": "I"
+    },
+    {
+        "id": "3",
+        "src": "il suo",
+        "en": "his"
+    },
+    {
+        "id": "4",
+        "src": "che",
+        "en": "that"
+    },
+    {
+        "id": "5",
+        "src": "lui",
+        "en": "he"
+    },
+    {
+        "id": "6",
+        "src": "era",
+        "en": "he/she was"
+    },
+    {
+        "id": "7",
+        "src": "per",
+        "en": "for"
+    },
+    {
+        "id": "8",
+        "src": "su",
+        "en": "on"
+    },
+    {
+        "id": "9",
+        "src": "come",
+        "en": "as/like"
+    },
+    {
+        "id": "10",
+        "src": "con",
+        "en": "with"
+    },
+    {
+        "id": "11",
+        "src": "loro",
+        "en": "they"
+    },
+    {
+        "id": "12",
+        "src": "essere",
+        "en": "to be"
+    },
+    {
+        "id": "13",
+        "src": "a",
+        "en": "at"
+    },
+    {
+        "id": "14",
+        "src": "uno",
+        "en": "one"
+    },
+    {
+        "id": "15",
+        "src": "avere",
+        "en": "to have"
+    },
+    {
+        "id": "16",
+        "src": "questo",
+        "en": "this"
+    },
+    {
+        "id": "17",
+        "src": "da",
+        "en": "from"
+    },
+    {
+        "id": "18",
+        "src": "di",
+        "en": "by"
+    },
+    {
+        "id": "19",
+        "src": "caldo",
+        "en": "hot"
+    },
+    {
+        "id": "20",
+        "src": "parola",
+        "en": "word"
+    },
+    {
+        "id": "21",
+        "src": "ma",
+        "en": "but"
+    },
+    {
+        "id": "22",
+        "src": "cosa",
+        "en": "what"
+    },
+    {
+        "id": "23",
+        "src": "alcuni",
+        "en": "some"
+    },
+    {
+        "id": "24",
+        "src": "è",
+        "en": "is"
+    },
+    {
+        "id": "25",
+        "src": "quello",
+        "en": "that"
+    },
+    {
+        "id": "26",
+        "src": "voi",
+        "en": "you (pl)"
+    },
+    {
+        "id": "27",
+        "src": "o",
+        "en": "or"
+    },
+    {
+        "id": "28",
+        "src": "aveva",
+        "en": "had"
+    },
+    {
+        "id": "29",
+        "src": "il",
+        "en": "the"
+    },
+    {
+        "id": "30",
+        "src": "di",
+        "en": "of"
+    },
+    {
+        "id": "31",
+        "src": "a",
+        "en": "to"
+    },
+    {
+        "id": "32",
+        "src": "e",
+        "en": "and"
+    },
+    {
+        "id": "33",
+        "src": "un",
+        "en": "a"
+    },
+    {
+        "id": "34",
+        "src": "in",
+        "en": "in"
+    },
+    {
+        "id": "35",
+        "src": "noi",
+        "en": "we"
+    },
+    {
+        "id": "36",
+        "src": "lattina",
+        "en": "can (of soda)"
+    },
+    {
+        "id": "37",
+        "src": "fuori",
+        "en": "out"
+    },
+    {
+        "id": "38",
+        "src": "altro",
+        "en": "other"
+    },
+    {
+        "id": "39",
+        "src": "erano",
+        "en": "were"
+    },
+    {
+        "id": "40",
+        "src": "che / quale",
+        "en": "which"
+    },
+    {
+        "id": "41",
+        "src": "fare",
+        "en": "to do/make"
+    },
+    {
+        "id": "42",
+        "src": "loro",
+        "en": "their"
+    },
+    {
+        "id": "43",
+        "src": "tempo",
+        "en": "time"
+    },
+    {
+        "id": "44",
+        "src": "se",
+        "en": "if"
+    },
+    {
+        "id": "45",
+        "src": "volontà",
+        "en": "will"
+    },
+    {
+        "id": "46",
+        "src": "come",
+        "en": "how"
+    },
+    {
+        "id": "47",
+        "src": "detto",
+        "en": "said"
+    },
+    {
+        "id": "48",
+        "src": "un",
+        "en": "an"
+    },
+    {
+        "id": "49",
+        "src": "ogni",
+        "en": "each"
+    },
+    {
+        "id": "50",
+        "src": "dire",
+        "en": "tell"
+    },
+    {
+        "id": "51",
+        "src": "fa",
+        "en": "does"
+    },
+    {
+        "id": "52",
+        "src": "fisso",
+        "en": "set (unchanging)"
+    },
+    {
+        "id": "53",
+        "src": "tre",
+        "en": "three"
+    },
+    {
+        "id": "54",
+        "src": "desiderare",
+        "en": "desire"
+    },
+    {
+        "id": "55",
+        "src": "aria",
+        "en": "air"
+    },
+    {
+        "id": "56",
+        "src": "bene",
+        "en": "well"
+    },
+    {
+        "id": "57",
+        "src": "anche",
+        "en": "also"
+    },
+    {
+        "id": "58",
+        "src": "giocare",
+        "en": "play"
+    },
+    {
+        "id": "59",
+        "src": "piccolo",
+        "en": "small"
+    },
+    {
+        "id": "60",
+        "src": "fine",
+        "en": "end"
+    },
+    {
+        "id": "61",
+        "src": "mettere",
+        "en": "put"
+    },
+    {
+        "id": "62",
+        "src": "casa",
+        "en": "home"
+    },
+    {
+        "id": "63",
+        "src": "leggere",
+        "en": "read"
+    },
+    {
+        "id": "64",
+        "src": "mano",
+        "en": "hand"
+    },
+    {
+        "id": "65",
+        "src": "portare",
+        "en": "carry"
+    },
+    {
+        "id": "66",
+        "src": "grande",
+        "en": "large"
+    },
+    {
+        "id": "67",
+        "src": "compitare",
+        "en": "spell (words)"
+    },
+    {
+        "id": "68",
+        "src": "aggiungere",
+        "en": "add"
+    },
+    {
+        "id": "69",
+        "src": "anche",
+        "en": "even/also"
+    },
+    {
+        "id": "70",
+        "src": "terra",
+        "en": "land"
+    },
+    {
+        "id": "71",
+        "src": "qui",
+        "en": "here"
+    },
+    {
+        "id": "72",
+        "src": "devo",
+        "en": "I must"
+    },
+    {
+        "id": "73",
+        "src": "grande",
+        "en": "big"
+    },
+    {
+        "id": "74",
+        "src": "alto",
+        "en": "high/tall"
+    },
+    {
+        "id": "75",
+        "src": "tale",
+        "en": "such"
+    },
+    {
+        "id": "76",
+        "src": "seguire",
+        "en": "follow"
+    },
+    {
+        "id": "77",
+        "src": "atto",
+        "en": "an act"
+    },
+    {
+        "id": "78",
+        "src": "perché",
+        "en": "why"
+    },
+    {
+        "id": "79",
+        "src": "chiedere",
+        "en": "ask"
+    },
+    {
+        "id": "80",
+        "src": "maschi",
+        "en": "men"
+    },
+    {
+        "id": "81",
+        "src": "cambiamento",
+        "en": "a change"
+    },
+    {
+        "id": "82",
+        "src": "è andato",
+        "en": "he/she went"
+    },
+    {
+        "id": "83",
+        "src": "luce",
+        "en": "light"
+    },
+    {
+        "id": "84",
+        "src": "tipo",
+        "en": "kind (of thing)"
+    },
+    {
+        "id": "85",
+        "src": "spento",
+        "en": "turned off"
+    },
+    {
+        "id": "86",
+        "src": "bisogno",
+        "en": "need"
+    },
+    {
+        "id": "87",
+        "src": "casa",
+        "en": "house"
+    },
+    {
+        "id": "88",
+        "src": "immagine",
+        "en": "image"
+    },
+    {
+        "id": "89",
+        "src": "provare",
+        "en": "try"
+    },
+    {
+        "id": "90",
+        "src": "noi",
+        "en": "us"
+    },
+    {
+        "id": "91",
+        "src": "di nuovo",
+        "en": "again"
+    },
+    {
+        "id": "92",
+        "src": "animale",
+        "en": "animal"
+    },
+    {
+        "id": "93",
+        "src": "punto",
+        "en": "point"
+    },
+    {
+        "id": "94",
+        "src": "madre",
+        "en": "mother"
+    },
+    {
+        "id": "95",
+        "src": "mondo",
+        "en": "world"
+    },
+    {
+        "id": "96",
+        "src": "vicino",
+        "en": "near"
+    },
+    {
+        "id": "97",
+        "src": "costruire",
+        "en": "build"
+    },
+    {
+        "id": "98",
+        "src": "se stesso",
+        "en": "himself"
+    },
+    {
+        "id": "99",
+        "src": "terra",
+        "en": "earth"
+    },
+    {
+        "id": "100",
+        "src": "padre",
+        "en": "father"
+    },
+    {
+        "id": "101",
+        "src": "qualsiasi",
+        "en": "any"
+    },
+    {
+        "id": "102",
+        "src": "nuovo",
+        "en": "new"
+    },
+    {
+        "id": "103",
+        "src": "lavoro",
+        "en": "work"
+    },
+    {
+        "id": "104",
+        "src": "parte",
+        "en": "part"
+    },
+    {
+        "id": "105",
+        "src": "prendere",
+        "en": "take"
+    },
+    {
+        "id": "106",
+        "src": "ottenere",
+        "en": "get"
+    },
+    {
+        "id": "107",
+        "src": "posto",
+        "en": "place"
+    },
+    {
+        "id": "108",
+        "src": "fatto",
+        "en": "made"
+    },
+    {
+        "id": "109",
+        "src": "vivere",
+        "en": "live"
+    },
+    {
+        "id": "110",
+        "src": "dove",
+        "en": "where"
+    },
+    {
+        "id": "111",
+        "src": "dopo",
+        "en": "after"
+    },
+    {
+        "id": "112",
+        "src": "indietro",
+        "en": "back"
+    },
+    {
+        "id": "113",
+        "src": "poco",
+        "en": "little"
+    },
+    {
+        "id": "114",
+        "src": "solo",
+        "en": "only"
+    },
+    {
+        "id": "115",
+        "src": "turno",
+        "en": "round"
+    },
+    {
+        "id": "116",
+        "src": "uomo",
+        "en": "man"
+    },
+    {
+        "id": "117",
+        "src": "anno",
+        "en": "year"
+    },
+    {
+        "id": "118",
+        "src": "è venuto",
+        "en": "came"
+    },
+    {
+        "id": "119",
+        "src": "spettacolo",
+        "en": "show"
+    },
+    {
+        "id": "120",
+        "src": "ogni",
+        "en": "every"
+    },
+    {
+        "id": "121",
+        "src": "buono",
+        "en": "good"
+    },
+    {
+        "id": "122",
+        "src": "me",
+        "en": "me"
+    },
+    {
+        "id": "123",
+        "src": "dare",
+        "en": "give"
+    },
+    {
+        "id": "124",
+        "src": "il nostro",
+        "en": "our"
+    },
+    {
+        "id": "125",
+        "src": "sotto",
+        "en": "under"
+    },
+    {
+        "id": "126",
+        "src": "nome",
+        "en": "name"
+    },
+    {
+        "id": "127",
+        "src": "molto",
+        "en": "very"
+    },
+    {
+        "id": "128",
+        "src": "attraverso",
+        "en": "through"
+    },
+    {
+        "id": "129",
+        "src": "solo",
+        "en": "just"
+    },
+    {
+        "id": "130",
+        "src": "forma",
+        "en": "form"
+    },
+    {
+        "id": "131",
+        "src": "frase",
+        "en": "sentence"
+    },
+    {
+        "id": "132",
+        "src": "grande",
+        "en": "great"
+    },
+    {
+        "id": "133",
+        "src": "pensare",
+        "en": "think"
+    },
+    {
+        "id": "134",
+        "src": "dire",
+        "en": "say"
+    },
+    {
+        "id": "135",
+        "src": "aiutare",
+        "en": "help"
+    },
+    {
+        "id": "136",
+        "src": "basso",
+        "en": "low"
+    },
+    {
+        "id": "137",
+        "src": "linea",
+        "en": "line"
+    },
+    {
+        "id": "138",
+        "src": "differire",
+        "en": "differ"
+    },
+    {
+        "id": "139",
+        "src": "turno",
+        "en": "turn"
+    },
+    {
+        "id": "140",
+        "src": "causa",
+        "en": "cause"
+    },
+    {
+        "id": "141",
+        "src": "molto",
+        "en": "much"
+    },
+    {
+        "id": "142",
+        "src": "dire",
+        "en": "mean"
+    },
+    {
+        "id": "143",
+        "src": "prima",
+        "en": "before"
+    },
+    {
+        "id": "144",
+        "src": "spostare",
+        "en": "move"
+    },
+    {
+        "id": "145",
+        "src": "diritto",
+        "en": "right"
+    },
+    {
+        "id": "146",
+        "src": "ragazzo",
+        "en": "boy"
+    },
+    {
+        "id": "147",
+        "src": "vecchio",
+        "en": "old"
+    },
+    {
+        "id": "148",
+        "src": "troppo",
+        "en": "too"
+    },
+    {
+        "id": "149",
+        "src": "stesso",
+        "en": "same"
+    },
+    {
+        "id": "150",
+        "src": "lei",
+        "en": "she"
+    },
+    {
+        "id": "151",
+        "src": "tutto",
+        "en": "all"
+    },
+    {
+        "id": "152",
+        "src": "ci",
+        "en": "there"
+    },
+    {
+        "id": "153",
+        "src": "quando",
+        "en": "when"
+    },
+    {
+        "id": "154",
+        "src": "su",
+        "en": "up"
+    },
+    {
+        "id": "155",
+        "src": "uso",
+        "en": "use"
+    },
+    {
+        "id": "156",
+        "src": "il tuo",
+        "en": "your"
+    },
+    {
+        "id": "157",
+        "src": "modo",
+        "en": "way"
+    },
+    {
+        "id": "158",
+        "src": "circa",
+        "en": "about"
+    },
+    {
+        "id": "159",
+        "src": "molti",
+        "en": "many"
+    },
+    {
+        "id": "160",
+        "src": "allora",
+        "en": "then"
+    },
+    {
+        "id": "161",
+        "src": "loro",
+        "en": "them"
+    },
+    {
+        "id": "162",
+        "src": "scrivere",
+        "en": "write"
+    },
+    {
+        "id": "163",
+        "src": "sarebbe",
+        "en": "would"
+    },
+    {
+        "id": "164",
+        "src": "come",
+        "en": "like"
+    },
+    {
+        "id": "165",
+        "src": "così",
+        "en": "so"
+    },
+    {
+        "id": "166",
+        "src": "queste",
+        "en": "these"
+    },
+    {
+        "id": "167",
+        "src": "lei",
+        "en": "her"
+    },
+    {
+        "id": "168",
+        "src": "lungo",
+        "en": "long"
+    },
+    {
+        "id": "169",
+        "src": "rendere",
+        "en": "make"
+    },
+    {
+        "id": "170",
+        "src": "cosa",
+        "en": "thing"
+    },
+    {
+        "id": "171",
+        "src": "vedere",
+        "en": "see"
+    },
+    {
+        "id": "172",
+        "src": "lui",
+        "en": "him"
+    },
+    {
+        "id": "173",
+        "src": "due",
+        "en": "two"
+    },
+    {
+        "id": "174",
+        "src": "ha",
+        "en": "has"
+    },
+    {
+        "id": "175",
+        "src": "guardare",
+        "en": "look"
+    },
+    {
+        "id": "176",
+        "src": "di più",
+        "en": "more"
+    },
+    {
+        "id": "177",
+        "src": "giorno",
+        "en": "day"
+    },
+    {
+        "id": "178",
+        "src": "potuto",
+        "en": "could"
+    },
+    {
+        "id": "179",
+        "src": "andare",
+        "en": "go"
+    },
+    {
+        "id": "180",
+        "src": "venire",
+        "en": "come"
+    },
+    {
+        "id": "181",
+        "src": "ha fatto",
+        "en": "did"
+    },
+    {
+        "id": "182",
+        "src": "numero",
+        "en": "number"
+    },
+    {
+        "id": "183",
+        "src": "suono",
+        "en": "sound"
+    },
+    {
+        "id": "184",
+        "src": "no",
+        "en": "no"
+    },
+    {
+        "id": "185",
+        "src": "più",
+        "en": "most"
+    },
+    {
+        "id": "186",
+        "src": "persone",
+        "en": "people"
+    },
+    {
+        "id": "187",
+        "src": "il mio",
+        "en": "my"
+    },
+    {
+        "id": "188",
+        "src": "oltre",
+        "en": "over"
+    },
+    {
+        "id": "189",
+        "src": "sapere",
+        "en": "know"
+    },
+    {
+        "id": "190",
+        "src": "acqua",
+        "en": "water"
+    },
+    {
+        "id": "191",
+        "src": "di",
+        "en": "than"
+    },
+    {
+        "id": "192",
+        "src": "chiamata",
+        "en": "call"
+    },
+    {
+        "id": "193",
+        "src": "primo",
+        "en": "first"
+    },
+    {
+        "id": "194",
+        "src": "che",
+        "en": "who"
+    },
+    {
+        "id": "195",
+        "src": "può",
+        "en": "may"
+    },
+    {
+        "id": "196",
+        "src": "giù",
+        "en": "down"
+    },
+    {
+        "id": "197",
+        "src": "lato",
+        "en": "side"
+    },
+    {
+        "id": "198",
+        "src": "stato",
+        "en": "been"
+    },
+    {
+        "id": "199",
+        "src": "ora",
+        "en": "now"
+    },
+    {
+        "id": "200",
+        "src": "trovare",
+        "en": "find"
+    },
+    {
+        "id": "201",
+        "src": "testa",
+        "en": "head"
+    },
+    {
+        "id": "202",
+        "src": "stare in piedi",
+        "en": "stand"
+    },
+    {
+        "id": "203",
+        "src": "proprio",
+        "en": "own"
+    },
+    {
+        "id": "204",
+        "src": "pagina",
+        "en": "page"
+    },
+    {
+        "id": "205",
+        "src": "dovrebbe",
+        "en": "should"
+    },
+    {
+        "id": "206",
+        "src": "paese",
+        "en": "country"
+    },
+    {
+        "id": "207",
+        "src": "fondare",
+        "en": "found"
+    },
+    {
+        "id": "208",
+        "src": "risposta",
+        "en": "answer"
+    },
+    {
+        "id": "209",
+        "src": "scuola",
+        "en": "school"
+    },
+    {
+        "id": "210",
+        "src": "crescere",
+        "en": "grow"
+    },
+    {
+        "id": "211",
+        "src": "studio",
+        "en": "study"
+    },
+    {
+        "id": "212",
+        "src": "ancora",
+        "en": "still"
+    },
+    {
+        "id": "213",
+        "src": "imparare",
+        "en": "learn"
+    },
+    {
+        "id": "214",
+        "src": "impianto",
+        "en": "plant"
+    },
+    {
+        "id": "215",
+        "src": "copertura",
+        "en": "cover"
+    },
+    {
+        "id": "216",
+        "src": "cibo",
+        "en": "food"
+    },
+    {
+        "id": "217",
+        "src": "sole",
+        "en": "sun"
+    },
+    {
+        "id": "218",
+        "src": "quattro",
+        "en": "four"
+    },
+    {
+        "id": "219",
+        "src": "fra",
+        "en": "between"
+    },
+    {
+        "id": "220",
+        "src": "stato",
+        "en": "state"
+    },
+    {
+        "id": "221",
+        "src": "mantenere",
+        "en": "keep"
+    },
+    {
+        "id": "222",
+        "src": "occhio",
+        "en": "eye"
+    },
+    {
+        "id": "223",
+        "src": "mai",
+        "en": "never"
+    },
+    {
+        "id": "224",
+        "src": "ultimo",
+        "en": "last"
+    },
+    {
+        "id": "225",
+        "src": "lasciare",
+        "en": "let"
+    },
+    {
+        "id": "226",
+        "src": "pensiero",
+        "en": "thought"
+    },
+    {
+        "id": "227",
+        "src": "città",
+        "en": "city"
+    },
+    {
+        "id": "228",
+        "src": "albero",
+        "en": "tree"
+    },
+    {
+        "id": "229",
+        "src": "attraversare",
+        "en": "cross"
+    },
+    {
+        "id": "230",
+        "src": "fattoria",
+        "en": "farm"
+    },
+    {
+        "id": "231",
+        "src": "difficile",
+        "en": "hard"
+    },
+    {
+        "id": "232",
+        "src": "inizio",
+        "en": "start"
+    },
+    {
+        "id": "233",
+        "src": "forza",
+        "en": "might"
+    },
+    {
+        "id": "234",
+        "src": "storia",
+        "en": "story"
+    },
+    {
+        "id": "235",
+        "src": "sega",
+        "en": "saw"
+    },
+    {
+        "id": "236",
+        "src": "lontano",
+        "en": "far"
+    },
+    {
+        "id": "237",
+        "src": "mare",
+        "en": "sea"
+    },
+    {
+        "id": "238",
+        "src": "disegnare",
+        "en": "draw"
+    },
+    {
+        "id": "239",
+        "src": "sinistra",
+        "en": "left"
+    },
+    {
+        "id": "240",
+        "src": "tardi",
+        "en": "late"
+    },
+    {
+        "id": "241",
+        "src": "run",
+        "en": "run"
+    },
+    {
+        "id": "242",
+        "src": "non",
+        "en": "don’t"
+    },
+    {
+        "id": "243",
+        "src": "mentre",
+        "en": "while"
+    },
+    {
+        "id": "244",
+        "src": "stampa",
+        "en": "press"
+    },
+    {
+        "id": "245",
+        "src": "close",
+        "en": "close"
+    },
+    {
+        "id": "246",
+        "src": "notte",
+        "en": "night"
+    },
+    {
+        "id": "247",
+        "src": "reale",
+        "en": "real"
+    },
+    {
+        "id": "248",
+        "src": "vita",
+        "en": "life"
+    },
+    {
+        "id": "249",
+        "src": "pochi",
+        "en": "few"
+    },
+    {
+        "id": "250",
+        "src": "nord",
+        "en": "north"
+    },
+    {
+        "id": "251",
+        "src": "libro",
+        "en": "book"
+    },
+    {
+        "id": "252",
+        "src": "portare",
+        "en": "carry"
+    },
+    {
+        "id": "253",
+        "src": "ha preso",
+        "en": "took"
+    },
+    {
+        "id": "254",
+        "src": "scienza",
+        "en": "science"
+    },
+    {
+        "id": "255",
+        "src": "mangiare",
+        "en": "eat"
+    },
+    {
+        "id": "256",
+        "src": "camera",
+        "en": "room"
+    },
+    {
+        "id": "257",
+        "src": "amico",
+        "en": "friend"
+    },
+    {
+        "id": "258",
+        "src": "ha iniziato",
+        "en": "began"
+    },
+    {
+        "id": "259",
+        "src": "idea",
+        "en": "idea"
+    },
+    {
+        "id": "260",
+        "src": "pesce",
+        "en": "fish"
+    },
+    {
+        "id": "261",
+        "src": "montagna",
+        "en": "mountain"
+    },
+    {
+        "id": "262",
+        "src": "stop",
+        "en": "stop"
+    },
+    {
+        "id": "263",
+        "src": "una volta",
+        "en": "once"
+    },
+    {
+        "id": "264",
+        "src": "base",
+        "en": "base"
+    },
+    {
+        "id": "265",
+        "src": "sentire",
+        "en": "hear"
+    },
+    {
+        "id": "266",
+        "src": "cavallo",
+        "en": "horse"
+    },
+    {
+        "id": "267",
+        "src": "taglio",
+        "en": "cut"
+    },
+    {
+        "id": "268",
+        "src": "sicuro",
+        "en": "sure"
+    },
+    {
+        "id": "269",
+        "src": "orologio",
+        "en": "watch"
+    },
+    {
+        "id": "270",
+        "src": "colore",
+        "en": "color"
+    },
+    {
+        "id": "271",
+        "src": "volto",
+        "en": "face"
+    },
+    {
+        "id": "272",
+        "src": "legno",
+        "en": "wood"
+    },
+    {
+        "id": "273",
+        "src": "principale",
+        "en": "main"
+    },
+    {
+        "id": "274",
+        "src": "aperto",
+        "en": "open"
+    },
+    {
+        "id": "275",
+        "src": "sembrare",
+        "en": "seem"
+    },
+    {
+        "id": "276",
+        "src": "insieme",
+        "en": "together"
+    },
+    {
+        "id": "277",
+        "src": "prossimo",
+        "en": "next"
+    },
+    {
+        "id": "278",
+        "src": "bianco",
+        "en": "white"
+    },
+    {
+        "id": "279",
+        "src": "bambini",
+        "en": "children"
+    },
+    {
+        "id": "280",
+        "src": "inizio",
+        "en": "begin"
+    },
+    {
+        "id": "281",
+        "src": "ottenuto",
+        "en": "got"
+    },
+    {
+        "id": "282",
+        "src": "camminare",
+        "en": "walk"
+    },
+    {
+        "id": "283",
+        "src": "esempio",
+        "en": "example"
+    },
+    {
+        "id": "284",
+        "src": "alleviare",
+        "en": "ease"
+    },
+    {
+        "id": "285",
+        "src": "carta",
+        "en": "paper"
+    },
+    {
+        "id": "286",
+        "src": "gruppo",
+        "en": "group"
+    },
+    {
+        "id": "287",
+        "src": "sempre",
+        "en": "always"
+    },
+    {
+        "id": "288",
+        "src": "musica",
+        "en": "music"
+    },
+    {
+        "id": "289",
+        "src": "quelli",
+        "en": "those"
+    },
+    {
+        "id": "290",
+        "src": "entrambi",
+        "en": "both"
+    },
+    {
+        "id": "291",
+        "src": "marchio",
+        "en": "mark"
+    },
+    {
+        "id": "292",
+        "src": "spesso",
+        "en": "often"
+    },
+    {
+        "id": "293",
+        "src": "lettera",
+        "en": "letter"
+    },
+    {
+        "id": "294",
+        "src": "fino a quando",
+        "en": "until"
+    },
+    {
+        "id": "295",
+        "src": "miglio",
+        "en": "mile"
+    },
+    {
+        "id": "296",
+        "src": "fiume",
+        "en": "river"
+    },
+    {
+        "id": "297",
+        "src": "auto",
+        "en": "car"
+    },
+    {
+        "id": "298",
+        "src": "piedi",
+        "en": "feet"
+    },
+    {
+        "id": "299",
+        "src": "cura",
+        "en": "care"
+    },
+    {
+        "id": "300",
+        "src": "secondo",
+        "en": "second"
+    },
+    {
+        "id": "301",
+        "src": "abbastanza",
+        "en": "enough"
+    },
+    {
+        "id": "302",
+        "src": "pianura",
+        "en": "plain"
+    },
+    {
+        "id": "303",
+        "src": "ragazza",
+        "en": "girl"
+    },
+    {
+        "id": "304",
+        "src": "solito",
+        "en": "usual"
+    },
+    {
+        "id": "305",
+        "src": "giovane",
+        "en": "young"
+    },
+    {
+        "id": "306",
+        "src": "pronto",
+        "en": "ready"
+    },
+    {
+        "id": "307",
+        "src": "sopra",
+        "en": "above"
+    },
+    {
+        "id": "308",
+        "src": "mai",
+        "en": "ever"
+    },
+    {
+        "id": "309",
+        "src": "rosso",
+        "en": "red"
+    },
+    {
+        "id": "310",
+        "src": "elenco",
+        "en": "list"
+    },
+    {
+        "id": "311",
+        "src": "anche se",
+        "en": "though"
+    },
+    {
+        "id": "312",
+        "src": "sentire",
+        "en": "feel"
+    },
+    {
+        "id": "313",
+        "src": "Discussioni",
+        "en": "talk"
+    },
+    {
+        "id": "314",
+        "src": "uccello",
+        "en": "bird"
+    },
+    {
+        "id": "315",
+        "src": "presto",
+        "en": "soon"
+    },
+    {
+        "id": "316",
+        "src": "corpo",
+        "en": "body"
+    },
+    {
+        "id": "317",
+        "src": "cane",
+        "en": "dog"
+    },
+    {
+        "id": "318",
+        "src": "famiglia",
+        "en": "family"
+    },
+    {
+        "id": "319",
+        "src": "diretto",
+        "en": "direct"
+    },
+    {
+        "id": "320",
+        "src": "posa",
+        "en": "pose"
+    },
+    {
+        "id": "321",
+        "src": "lasciare",
+        "en": "leave"
+    },
+    {
+        "id": "322",
+        "src": "canzone",
+        "en": "song"
+    },
+    {
+        "id": "323",
+        "src": "misurare",
+        "en": "measure"
+    },
+    {
+        "id": "324",
+        "src": "porta",
+        "en": "door"
+    },
+    {
+        "id": "325",
+        "src": "prodotto",
+        "en": "product"
+    },
+    {
+        "id": "326",
+        "src": "nero",
+        "en": "black"
+    },
+    {
+        "id": "327",
+        "src": "breve",
+        "en": "short"
+    },
+    {
+        "id": "328",
+        "src": "numerale",
+        "en": "numeral"
+    },
+    {
+        "id": "329",
+        "src": "classe",
+        "en": "class"
+    },
+    {
+        "id": "330",
+        "src": "vento",
+        "en": "wind"
+    },
+    {
+        "id": "331",
+        "src": "domanda",
+        "en": "question"
+    },
+    {
+        "id": "332",
+        "src": "accadere",
+        "en": "happen"
+    },
+    {
+        "id": "333",
+        "src": "integrale",
+        "en": "complete"
+    },
+    {
+        "id": "334",
+        "src": "nave",
+        "en": "ship"
+    },
+    {
+        "id": "335",
+        "src": "area",
+        "en": "area"
+    },
+    {
+        "id": "336",
+        "src": "metà",
+        "en": "half"
+    },
+    {
+        "id": "337",
+        "src": "rock",
+        "en": "rock"
+    },
+    {
+        "id": "338",
+        "src": "ordine",
+        "en": "order"
+    },
+    {
+        "id": "339",
+        "src": "fuoco",
+        "en": "fire"
+    },
+    {
+        "id": "340",
+        "src": "sud",
+        "en": "south"
+    },
+    {
+        "id": "341",
+        "src": "problema",
+        "en": "problem"
+    },
+    {
+        "id": "342",
+        "src": "pezzo",
+        "en": "piece"
+    },
+    {
+        "id": "343",
+        "src": "ha detto",
+        "en": "told"
+    },
+    {
+        "id": "344",
+        "src": "sapeva",
+        "en": "knew"
+    },
+    {
+        "id": "345",
+        "src": "passare",
+        "en": "pass"
+    },
+    {
+        "id": "346",
+        "src": "da",
+        "en": "since"
+    },
+    {
+        "id": "347",
+        "src": "top",
+        "en": "top"
+    },
+    {
+        "id": "348",
+        "src": "tutto",
+        "en": "whole"
+    },
+    {
+        "id": "349",
+        "src": "re",
+        "en": "king"
+    },
+    {
+        "id": "350",
+        "src": "strada",
+        "en": "street"
+    },
+    {
+        "id": "351",
+        "src": "pollice",
+        "en": "inch"
+    },
+    {
+        "id": "352",
+        "src": "moltiplicare",
+        "en": "multiply"
+    },
+    {
+        "id": "353",
+        "src": "niente",
+        "en": "nothing"
+    },
+    {
+        "id": "354",
+        "src": "corso",
+        "en": "course"
+    },
+    {
+        "id": "355",
+        "src": "soggiornare",
+        "en": "stay"
+    },
+    {
+        "id": "356",
+        "src": "ruota",
+        "en": "wheel"
+    },
+    {
+        "id": "357",
+        "src": "completo",
+        "en": "full"
+    },
+    {
+        "id": "358",
+        "src": "vigore",
+        "en": "force"
+    },
+    {
+        "id": "359",
+        "src": "blu",
+        "en": "blue"
+    },
+    {
+        "id": "360",
+        "src": "oggetto",
+        "en": "object"
+    },
+    {
+        "id": "361",
+        "src": "decidere",
+        "en": "decide"
+    },
+    {
+        "id": "362",
+        "src": "superficie",
+        "en": "surface"
+    },
+    {
+        "id": "363",
+        "src": "profondità",
+        "en": "deep"
+    },
+    {
+        "id": "364",
+        "src": "luna",
+        "en": "moon"
+    },
+    {
+        "id": "365",
+        "src": "isola",
+        "en": "island"
+    },
+    {
+        "id": "366",
+        "src": "piede",
+        "en": "foot"
+    },
+    {
+        "id": "367",
+        "src": "sistema",
+        "en": "system"
+    },
+    {
+        "id": "368",
+        "src": "occupato",
+        "en": "busy"
+    },
+    {
+        "id": "369",
+        "src": "test",
+        "en": "test"
+    },
+    {
+        "id": "370",
+        "src": "record",
+        "en": "record"
+    },
+    {
+        "id": "371",
+        "src": "barca",
+        "en": "boat"
+    },
+    {
+        "id": "372",
+        "src": "comune",
+        "en": "common"
+    },
+    {
+        "id": "373",
+        "src": "oro",
+        "en": "gold"
+    },
+    {
+        "id": "374",
+        "src": "possibile",
+        "en": "possible"
+    },
+    {
+        "id": "375",
+        "src": "piano",
+        "en": "plane"
+    },
+    {
+        "id": "376",
+        "src": "vece",
+        "en": "stead"
+    },
+    {
+        "id": "377",
+        "src": "asciutto",
+        "en": "dry"
+    },
+    {
+        "id": "378",
+        "src": "meraviglia",
+        "en": "wonder"
+    },
+    {
+        "id": "379",
+        "src": "ridere",
+        "en": "laugh"
+    },
+    {
+        "id": "380",
+        "src": "migliaia",
+        "en": "thousand"
+    },
+    {
+        "id": "381",
+        "src": "fa",
+        "en": "ago"
+    },
+    {
+        "id": "382",
+        "src": "corse",
+        "en": "ran"
+    },
+    {
+        "id": "383",
+        "src": "controllare",
+        "en": "check"
+    },
+    {
+        "id": "384",
+        "src": "gioco",
+        "en": "game"
+    },
+    {
+        "id": "385",
+        "src": "forma",
+        "en": "shape"
+    },
+    {
+        "id": "386",
+        "src": "uguagliare",
+        "en": "equate"
+    },
+    {
+        "id": "387",
+        "src": "caldo",
+        "en": "hot"
+    },
+    {
+        "id": "388",
+        "src": "perdere",
+        "en": "miss"
+    },
+    {
+        "id": "389",
+        "src": "portato",
+        "en": "brought"
+    },
+    {
+        "id": "390",
+        "src": "calore",
+        "en": "heat"
+    },
+    {
+        "id": "391",
+        "src": "neve",
+        "en": "snow"
+    },
+    {
+        "id": "392",
+        "src": "pneumatico",
+        "en": "tire"
+    },
+    {
+        "id": "393",
+        "src": "portare",
+        "en": "bring"
+    },
+    {
+        "id": "394",
+        "src": "sì",
+        "en": "yes"
+    },
+    {
+        "id": "395",
+        "src": "lontano",
+        "en": "distant"
+    },
+    {
+        "id": "396",
+        "src": "riempire",
+        "en": "fill"
+    },
+    {
+        "id": "397",
+        "src": "est",
+        "en": "east"
+    },
+    {
+        "id": "398",
+        "src": "dipingere",
+        "en": "paint"
+    },
+    {
+        "id": "399",
+        "src": "lingua",
+        "en": "language"
+    },
+    {
+        "id": "400",
+        "src": "tra",
+        "en": "among"
+    },
+    {
+        "id": "401",
+        "src": "unità",
+        "en": "unit"
+    },
+    {
+        "id": "402",
+        "src": "potenza",
+        "en": "power"
+    },
+    {
+        "id": "403",
+        "src": "città",
+        "en": "town"
+    },
+    {
+        "id": "404",
+        "src": "fine",
+        "en": "fine"
+    },
+    {
+        "id": "405",
+        "src": "certo",
+        "en": "certain"
+    },
+    {
+        "id": "406",
+        "src": "volare",
+        "en": "fly"
+    },
+    {
+        "id": "407",
+        "src": "cadere",
+        "en": "fall"
+    },
+    {
+        "id": "408",
+        "src": "portare",
+        "en": "lead"
+    },
+    {
+        "id": "409",
+        "src": "grido",
+        "en": "cry"
+    },
+    {
+        "id": "410",
+        "src": "scuro",
+        "en": "dark"
+    },
+    {
+        "id": "411",
+        "src": "macchina",
+        "en": "machine"
+    },
+    {
+        "id": "412",
+        "src": "nota",
+        "en": "note"
+    },
+    {
+        "id": "413",
+        "src": "aspettare",
+        "en": "wait"
+    },
+    {
+        "id": "414",
+        "src": "piano",
+        "en": "plan"
+    },
+    {
+        "id": "415",
+        "src": "figura",
+        "en": "figure"
+    },
+    {
+        "id": "416",
+        "src": "stella",
+        "en": "star"
+    },
+    {
+        "id": "417",
+        "src": "scatola",
+        "en": "box"
+    },
+    {
+        "id": "418",
+        "src": "sostantivo",
+        "en": "noun"
+    },
+    {
+        "id": "419",
+        "src": "campo",
+        "en": "field"
+    },
+    {
+        "id": "420",
+        "src": "resto",
+        "en": "rest"
+    },
+    {
+        "id": "421",
+        "src": "corretto",
+        "en": "correct"
+    },
+    {
+        "id": "422",
+        "src": "in grado di",
+        "en": "able"
+    },
+    {
+        "id": "423",
+        "src": "libbra",
+        "en": "pound"
+    },
+    {
+        "id": "424",
+        "src": "done",
+        "en": "done"
+    },
+    {
+        "id": "425",
+        "src": "bellezza",
+        "en": "beauty"
+    },
+    {
+        "id": "426",
+        "src": "unità",
+        "en": "drive"
+    },
+    {
+        "id": "427",
+        "src": "sorgeva",
+        "en": "stood"
+    },
+    {
+        "id": "428",
+        "src": "contenere",
+        "en": "contain"
+    },
+    {
+        "id": "429",
+        "src": "frontale",
+        "en": "front"
+    },
+    {
+        "id": "430",
+        "src": "insegnare",
+        "en": "teach"
+    },
+    {
+        "id": "431",
+        "src": "settimana",
+        "en": "week"
+    },
+    {
+        "id": "432",
+        "src": "finale",
+        "en": "final"
+    },
+    {
+        "id": "433",
+        "src": "ha dato",
+        "en": "gave"
+    },
+    {
+        "id": "434",
+        "src": "verde",
+        "en": "green"
+    },
+    {
+        "id": "435",
+        "src": "oh",
+        "en": "oh"
+    },
+    {
+        "id": "436",
+        "src": "veloce",
+        "en": "quick"
+    },
+    {
+        "id": "437",
+        "src": "sviluppare",
+        "en": "develop"
+    },
+    {
+        "id": "438",
+        "src": "oceano",
+        "en": "ocean"
+    },
+    {
+        "id": "439",
+        "src": "caldo",
+        "en": "warm"
+    },
+    {
+        "id": "440",
+        "src": "gratuito",
+        "en": "free"
+    },
+    {
+        "id": "441",
+        "src": "minuto",
+        "en": "minute"
+    },
+    {
+        "id": "442",
+        "src": "forte",
+        "en": "strong"
+    },
+    {
+        "id": "443",
+        "src": "speciale",
+        "en": "special"
+    },
+    {
+        "id": "444",
+        "src": "mente",
+        "en": "mind"
+    },
+    {
+        "id": "445",
+        "src": "dietro",
+        "en": "behind"
+    },
+    {
+        "id": "446",
+        "src": "chiaro",
+        "en": "clear"
+    },
+    {
+        "id": "447",
+        "src": "coda",
+        "en": "tail"
+    },
+    {
+        "id": "448",
+        "src": "produrre",
+        "en": "produce"
+    },
+    {
+        "id": "449",
+        "src": "fatto",
+        "en": "fact"
+    },
+    {
+        "id": "450",
+        "src": "spazio",
+        "en": "space"
+    },
+    {
+        "id": "451",
+        "src": "sentito",
+        "en": "heard"
+    },
+    {
+        "id": "452",
+        "src": "migliore",
+        "en": "best"
+    },
+    {
+        "id": "453",
+        "src": "ora",
+        "en": "hour"
+    },
+    {
+        "id": "454",
+        "src": "meglio",
+        "en": "better"
+    },
+    {
+        "id": "455",
+        "src": "vero",
+        "en": "true"
+    },
+    {
+        "id": "456",
+        "src": "durante",
+        "en": "during"
+    },
+    {
+        "id": "457",
+        "src": "cento",
+        "en": "hundred"
+    },
+    {
+        "id": "458",
+        "src": "cinque",
+        "en": "five"
+    },
+    {
+        "id": "459",
+        "src": "ricordare",
+        "en": "remember"
+    },
+    {
+        "id": "460",
+        "src": "passo",
+        "en": "step"
+    },
+    {
+        "id": "461",
+        "src": "presto",
+        "en": "early"
+    },
+    {
+        "id": "462",
+        "src": "tenere",
+        "en": "hold"
+    },
+    {
+        "id": "463",
+        "src": "ovest",
+        "en": "west"
+    },
+    {
+        "id": "464",
+        "src": "terra",
+        "en": "ground"
+    },
+    {
+        "id": "465",
+        "src": "interesse",
+        "en": "interest"
+    },
+    {
+        "id": "466",
+        "src": "raggiungere",
+        "en": "reach"
+    },
+    {
+        "id": "467",
+        "src": "veloce",
+        "en": "fast"
+    },
+    {
+        "id": "468",
+        "src": "verbo",
+        "en": "verb"
+    },
+    {
+        "id": "469",
+        "src": "cantare",
+        "en": "sing"
+    },
+    {
+        "id": "470",
+        "src": "ascoltare",
+        "en": "listen"
+    },
+    {
+        "id": "471",
+        "src": "sei",
+        "en": "six"
+    },
+    {
+        "id": "472",
+        "src": "tavolo",
+        "en": "table"
+    },
+    {
+        "id": "473",
+        "src": "viaggi",
+        "en": "travel"
+    },
+    {
+        "id": "474",
+        "src": "meno",
+        "en": "less"
+    },
+    {
+        "id": "475",
+        "src": "mattina",
+        "en": "morning"
+    },
+    {
+        "id": "476",
+        "src": "dieci",
+        "en": "ten"
+    },
+    {
+        "id": "477",
+        "src": "semplice",
+        "en": "simple"
+    },
+    {
+        "id": "478",
+        "src": "alcuni",
+        "en": "several"
+    },
+    {
+        "id": "479",
+        "src": "vocale",
+        "en": "vowel"
+    },
+    {
+        "id": "480",
+        "src": "verso",
+        "en": "toward"
+    },
+    {
+        "id": "481",
+        "src": "guerra",
+        "en": "war"
+    },
+    {
+        "id": "482",
+        "src": "porre",
+        "en": "lay"
+    },
+    {
+        "id": "483",
+        "src": "contro",
+        "en": "against"
+    },
+    {
+        "id": "484",
+        "src": "modello",
+        "en": "pattern"
+    },
+    {
+        "id": "485",
+        "src": "lento",
+        "en": "slow"
+    },
+    {
+        "id": "486",
+        "src": "centro",
+        "en": "center"
+    },
+    {
+        "id": "487",
+        "src": "amore",
+        "en": "love"
+    },
+    {
+        "id": "488",
+        "src": "persona",
+        "en": "person"
+    },
+    {
+        "id": "489",
+        "src": "soldi",
+        "en": "money"
+    },
+    {
+        "id": "490",
+        "src": "servire",
+        "en": "serve"
+    },
+    {
+        "id": "491",
+        "src": "apparire",
+        "en": "appear"
+    },
+    {
+        "id": "492",
+        "src": "strada",
+        "en": "road"
+    },
+    {
+        "id": "493",
+        "src": "mappa",
+        "en": "map"
+    },
+    {
+        "id": "494",
+        "src": "pioggia",
+        "en": "rain"
+    },
+    {
+        "id": "495",
+        "src": "regola",
+        "en": "rule"
+    },
+    {
+        "id": "496",
+        "src": "governare",
+        "en": "govern"
+    },
+    {
+        "id": "497",
+        "src": "tirare",
+        "en": "pull"
+    },
+    {
+        "id": "498",
+        "src": "freddo",
+        "en": "cold"
+    },
+    {
+        "id": "499",
+        "src": "avviso",
+        "en": "notice"
+    },
+    {
+        "id": "500",
+        "src": "voce",
+        "en": "voice"
+    },
+    {
+        "id": "501",
+        "src": "energia",
+        "en": "energy"
+    },
+    {
+        "id": "502",
+        "src": "caccia",
+        "en": "hunt"
+    },
+    {
+        "id": "503",
+        "src": "probabile",
+        "en": "probable"
+    },
+    {
+        "id": "504",
+        "src": "letto",
+        "en": "bed"
+    },
+    {
+        "id": "505",
+        "src": "fratello",
+        "en": "brother"
+    },
+    {
+        "id": "506",
+        "src": "uovo",
+        "en": "egg"
+    },
+    {
+        "id": "507",
+        "src": "giro",
+        "en": "ride"
+    },
+    {
+        "id": "508",
+        "src": "cella",
+        "en": "cell"
+    },
+    {
+        "id": "509",
+        "src": "credere",
+        "en": "believe"
+    },
+    {
+        "id": "510",
+        "src": "forse",
+        "en": "perhaps"
+    },
+    {
+        "id": "511",
+        "src": "scegliere",
+        "en": "pick"
+    },
+    {
+        "id": "512",
+        "src": "improvviso",
+        "en": "sudden"
+    },
+    {
+        "id": "513",
+        "src": "contare",
+        "en": "count"
+    },
+    {
+        "id": "514",
+        "src": "piazza",
+        "en": "square"
+    },
+    {
+        "id": "515",
+        "src": "motivo",
+        "en": "reason"
+    },
+    {
+        "id": "516",
+        "src": "lunghezza",
+        "en": "length"
+    },
+    {
+        "id": "517",
+        "src": "rappresentare",
+        "en": "represent"
+    },
+    {
+        "id": "518",
+        "src": "arte",
+        "en": "art"
+    },
+    {
+        "id": "519",
+        "src": "soggetto",
+        "en": "subject"
+    },
+    {
+        "id": "520",
+        "src": "regione",
+        "en": "region"
+    },
+    {
+        "id": "521",
+        "src": "dimensione",
+        "en": "size"
+    },
+    {
+        "id": "522",
+        "src": "variare",
+        "en": "vary"
+    },
+    {
+        "id": "523",
+        "src": "risolvere",
+        "en": "settle"
+    },
+    {
+        "id": "524",
+        "src": "parlare",
+        "en": "speak"
+    },
+    {
+        "id": "525",
+        "src": "peso",
+        "en": "weight"
+    },
+    {
+        "id": "526",
+        "src": "generale",
+        "en": "general"
+    },
+    {
+        "id": "527",
+        "src": "ghiaccio",
+        "en": "ice"
+    },
+    {
+        "id": "528",
+        "src": "materia",
+        "en": "matter"
+    },
+    {
+        "id": "529",
+        "src": "cerchio",
+        "en": "circle"
+    },
+    {
+        "id": "530",
+        "src": "coppia",
+        "en": "pair"
+    },
+    {
+        "id": "531",
+        "src": "includere",
+        "en": "include"
+    },
+    {
+        "id": "532",
+        "src": "divide",
+        "en": "divide"
+    },
+    {
+        "id": "533",
+        "src": "sillaba",
+        "en": "syllable"
+    },
+    {
+        "id": "534",
+        "src": "feltro",
+        "en": "felt"
+    },
+    {
+        "id": "535",
+        "src": "grande",
+        "en": "grand"
+    },
+    {
+        "id": "536",
+        "src": "palla",
+        "en": "ball"
+    },
+    {
+        "id": "537",
+        "src": "ancora",
+        "en": "yet"
+    },
+    {
+        "id": "538",
+        "src": "onda",
+        "en": "wave"
+    },
+    {
+        "id": "539",
+        "src": "cadere",
+        "en": "drop"
+    },
+    {
+        "id": "540",
+        "src": "cuore",
+        "en": "heart"
+    },
+    {
+        "id": "541",
+        "src": "am",
+        "en": "am"
+    },
+    {
+        "id": "542",
+        "src": "presente",
+        "en": "present"
+    },
+    {
+        "id": "543",
+        "src": "pesante",
+        "en": "heavy"
+    },
+    {
+        "id": "544",
+        "src": "danza",
+        "en": "dance"
+    },
+    {
+        "id": "545",
+        "src": "motore",
+        "en": "engine"
+    },
+    {
+        "id": "546",
+        "src": "posizione",
+        "en": "position"
+    },
+    {
+        "id": "547",
+        "src": "braccio",
+        "en": "arm"
+    },
+    {
+        "id": "548",
+        "src": "ampio",
+        "en": "wide"
+    },
+    {
+        "id": "549",
+        "src": "vela",
+        "en": "sail"
+    },
+    {
+        "id": "550",
+        "src": "materiale",
+        "en": "material"
+    },
+    {
+        "id": "551",
+        "src": "frazione",
+        "en": "fraction"
+    },
+    {
+        "id": "552",
+        "src": "foresta",
+        "en": "forest"
+    },
+    {
+        "id": "553",
+        "src": "sedersi",
+        "en": "sit"
+    },
+    {
+        "id": "554",
+        "src": "gara",
+        "en": "race"
+    },
+    {
+        "id": "555",
+        "src": "finestra",
+        "en": "window"
+    },
+    {
+        "id": "556",
+        "src": "negozio",
+        "en": "store"
+    },
+    {
+        "id": "557",
+        "src": "estate",
+        "en": "summer"
+    },
+    {
+        "id": "558",
+        "src": "treno",
+        "en": "train"
+    },
+    {
+        "id": "559",
+        "src": "sonno",
+        "en": "sleep"
+    },
+    {
+        "id": "560",
+        "src": "dimostrare",
+        "en": "prove"
+    },
+    {
+        "id": "561",
+        "src": "solitario",
+        "en": "lone"
+    },
+    {
+        "id": "562",
+        "src": "gamba",
+        "en": "leg"
+    },
+    {
+        "id": "563",
+        "src": "esercizio",
+        "en": "exercise"
+    },
+    {
+        "id": "564",
+        "src": "muro",
+        "en": "wall"
+    },
+    {
+        "id": "565",
+        "src": "prendere",
+        "en": "catch"
+    },
+    {
+        "id": "566",
+        "src": "monte",
+        "en": "mount"
+    },
+    {
+        "id": "567",
+        "src": "desiderio",
+        "en": "wish"
+    },
+    {
+        "id": "568",
+        "src": "cielo",
+        "en": "sky"
+    },
+    {
+        "id": "569",
+        "src": "pensione",
+        "en": "board"
+    },
+    {
+        "id": "570",
+        "src": "gioia",
+        "en": "joy"
+    },
+    {
+        "id": "571",
+        "src": "inverno",
+        "en": "winter"
+    },
+    {
+        "id": "572",
+        "src": "sat",
+        "en": "sat"
+    },
+    {
+        "id": "573",
+        "src": "scritto",
+        "en": "written"
+    },
+    {
+        "id": "574",
+        "src": "selvaggio",
+        "en": "wild"
+    },
+    {
+        "id": "575",
+        "src": "strumento",
+        "en": "instrument"
+    },
+    {
+        "id": "576",
+        "src": "tenere",
+        "en": "kept"
+    },
+    {
+        "id": "577",
+        "src": "vetro",
+        "en": "glass"
+    },
+    {
+        "id": "578",
+        "src": "erba",
+        "en": "grass"
+    },
+    {
+        "id": "579",
+        "src": "mucca",
+        "en": "cow"
+    },
+    {
+        "id": "580",
+        "src": "lavoro",
+        "en": "job"
+    },
+    {
+        "id": "581",
+        "src": "bordo",
+        "en": "edge"
+    },
+    {
+        "id": "582",
+        "src": "segno",
+        "en": "sign"
+    },
+    {
+        "id": "583",
+        "src": "visita",
+        "en": "visit"
+    },
+    {
+        "id": "584",
+        "src": "passato",
+        "en": "past"
+    },
+    {
+        "id": "585",
+        "src": "morbido",
+        "en": "soft"
+    },
+    {
+        "id": "586",
+        "src": "divertimento",
+        "en": "fun"
+    },
+    {
+        "id": "587",
+        "src": "luminoso",
+        "en": "bright"
+    },
+    {
+        "id": "588",
+        "src": "gas",
+        "en": "gas"
+    },
+    {
+        "id": "589",
+        "src": "tempo",
+        "en": "weather"
+    },
+    {
+        "id": "590",
+        "src": "mese",
+        "en": "month"
+    },
+    {
+        "id": "591",
+        "src": "milione",
+        "en": "million"
+    },
+    {
+        "id": "592",
+        "src": "sopportare",
+        "en": "bear"
+    },
+    {
+        "id": "593",
+        "src": "finitura",
+        "en": "finish"
+    },
+    {
+        "id": "594",
+        "src": "felice",
+        "en": "happy"
+    },
+    {
+        "id": "595",
+        "src": "speranza",
+        "en": "hope"
+    },
+    {
+        "id": "596",
+        "src": "fiore",
+        "en": "flower"
+    },
+    {
+        "id": "597",
+        "src": "vestire",
+        "en": "clothe"
+    },
+    {
+        "id": "598",
+        "src": "strano",
+        "en": "strange"
+    },
+    {
+        "id": "599",
+        "src": "gone",
+        "en": "gone"
+    },
+    {
+        "id": "600",
+        "src": "commercio",
+        "en": "trade"
+    },
+    {
+        "id": "601",
+        "src": "melodia",
+        "en": "melody"
+    },
+    {
+        "id": "602",
+        "src": "viaggio",
+        "en": "trip"
+    },
+    {
+        "id": "603",
+        "src": "ufficio",
+        "en": "office"
+    },
+    {
+        "id": "604",
+        "src": "ricevere",
+        "en": "receive"
+    },
+    {
+        "id": "605",
+        "src": "fila",
+        "en": "row"
+    },
+    {
+        "id": "606",
+        "src": "bocca",
+        "en": "mouth"
+    },
+    {
+        "id": "607",
+        "src": "esatto",
+        "en": "exact"
+    },
+    {
+        "id": "608",
+        "src": "simbolo",
+        "en": "symbol"
+    },
+    {
+        "id": "609",
+        "src": "morire",
+        "en": "die"
+    },
+    {
+        "id": "610",
+        "src": "meno",
+        "en": "least"
+    },
+    {
+        "id": "611",
+        "src": "difficoltà",
+        "en": "trouble"
+    },
+    {
+        "id": "612",
+        "src": "shout",
+        "en": "shout"
+    },
+    {
+        "id": "613",
+        "src": "tranne",
+        "en": "except"
+    },
+    {
+        "id": "614",
+        "src": "ha scritto",
+        "en": "wrote"
+    },
+    {
+        "id": "615",
+        "src": "seme",
+        "en": "seed"
+    },
+    {
+        "id": "616",
+        "src": "tono",
+        "en": "tone"
+    },
+    {
+        "id": "617",
+        "src": "aderire",
+        "en": "join"
+    },
+    {
+        "id": "618",
+        "src": "suggerire",
+        "en": "suggest"
+    },
+    {
+        "id": "619",
+        "src": "pulito",
+        "en": "clean"
+    },
+    {
+        "id": "620",
+        "src": "pausa",
+        "en": "break"
+    },
+    {
+        "id": "621",
+        "src": "signora",
+        "en": "lady"
+    },
+    {
+        "id": "622",
+        "src": "cantiere",
+        "en": "yard"
+    },
+    {
+        "id": "623",
+        "src": "salire",
+        "en": "rise"
+    },
+    {
+        "id": "624",
+        "src": "male",
+        "en": "bad"
+    },
+    {
+        "id": "625",
+        "src": "colpo",
+        "en": "blow"
+    },
+    {
+        "id": "626",
+        "src": "olio",
+        "en": "oil"
+    },
+    {
+        "id": "627",
+        "src": "sangue",
+        "en": "blood"
+    },
+    {
+        "id": "628",
+        "src": "toccare",
+        "en": "touch"
+    },
+    {
+        "id": "629",
+        "src": "è cresciuto",
+        "en": "grew"
+    },
+    {
+        "id": "630",
+        "src": "cent",
+        "en": "cent"
+    },
+    {
+        "id": "631",
+        "src": "mescolare",
+        "en": "mix"
+    },
+    {
+        "id": "632",
+        "src": "team",
+        "en": "team"
+    },
+    {
+        "id": "633",
+        "src": "filo",
+        "en": "wire"
+    },
+    {
+        "id": "634",
+        "src": "costo",
+        "en": "cost"
+    },
+    {
+        "id": "635",
+        "src": "perso",
+        "en": "lost"
+    },
+    {
+        "id": "636",
+        "src": "marrone",
+        "en": "brown"
+    },
+    {
+        "id": "637",
+        "src": "indossare",
+        "en": "wear"
+    },
+    {
+        "id": "638",
+        "src": "giardino",
+        "en": "garden"
+    },
+    {
+        "id": "639",
+        "src": "pari",
+        "en": "equal"
+    },
+    {
+        "id": "640",
+        "src": "inviato",
+        "en": "sent"
+    },
+    {
+        "id": "641",
+        "src": "scegliere",
+        "en": "choose"
+    },
+    {
+        "id": "642",
+        "src": "caduto",
+        "en": "fell"
+    },
+    {
+        "id": "643",
+        "src": "adattarsi",
+        "en": "fit"
+    },
+    {
+        "id": "644",
+        "src": "flusso",
+        "en": "flow"
+    },
+    {
+        "id": "645",
+        "src": "fiera",
+        "en": "fair"
+    },
+    {
+        "id": "646",
+        "src": "banca",
+        "en": "bank"
+    },
+    {
+        "id": "647",
+        "src": "raccogliere",
+        "en": "collect"
+    },
+    {
+        "id": "648",
+        "src": "salvare",
+        "en": "save"
+    },
+    {
+        "id": "649",
+        "src": "controllo",
+        "en": "control"
+    },
+    {
+        "id": "650",
+        "src": "decimale",
+        "en": "decimal"
+    },
+    {
+        "id": "651",
+        "src": "orecchio",
+        "en": "ear"
+    },
+    {
+        "id": "652",
+        "src": "altro",
+        "en": "else"
+    },
+    {
+        "id": "653",
+        "src": "abbastanza",
+        "en": "quite"
+    },
+    {
+        "id": "654",
+        "src": "rotto",
+        "en": "broke"
+    },
+    {
+        "id": "655",
+        "src": "caso",
+        "en": "case"
+    },
+    {
+        "id": "656",
+        "src": "mezzo",
+        "en": "middle"
+    },
+    {
+        "id": "657",
+        "src": "uccidere",
+        "en": "kill"
+    },
+    {
+        "id": "658",
+        "src": "figlio",
+        "en": "son"
+    },
+    {
+        "id": "659",
+        "src": "lago",
+        "en": "lake"
+    },
+    {
+        "id": "660",
+        "src": "momento",
+        "en": "moment"
+    },
+    {
+        "id": "661",
+        "src": "scala",
+        "en": "scale"
+    },
+    {
+        "id": "662",
+        "src": "forte",
+        "en": "loud"
+    },
+    {
+        "id": "663",
+        "src": "primavera",
+        "en": "spring"
+    },
+    {
+        "id": "664",
+        "src": "osservare",
+        "en": "observe"
+    },
+    {
+        "id": "665",
+        "src": "bambino",
+        "en": "child"
+    },
+    {
+        "id": "666",
+        "src": "dritto",
+        "en": "straight"
+    },
+    {
+        "id": "667",
+        "src": "consonante",
+        "en": "consonant"
+    },
+    {
+        "id": "668",
+        "src": "nazione",
+        "en": "nation"
+    },
+    {
+        "id": "669",
+        "src": "dizionario",
+        "en": "dictionary"
+    },
+    {
+        "id": "670",
+        "src": "latte",
+        "en": "milk"
+    },
+    {
+        "id": "671",
+        "src": "velocità",
+        "en": "speed"
+    },
+    {
+        "id": "672",
+        "src": "metodo",
+        "en": "method"
+    },
+    {
+        "id": "673",
+        "src": "organo",
+        "en": "organ"
+    },
+    {
+        "id": "674",
+        "src": "pagare",
+        "en": "pay"
+    },
+    {
+        "id": "675",
+        "src": "età",
+        "en": "age"
+    },
+    {
+        "id": "676",
+        "src": "sezione",
+        "en": "section"
+    },
+    {
+        "id": "677",
+        "src": "vestito",
+        "en": "dress"
+    },
+    {
+        "id": "678",
+        "src": "nube",
+        "en": "cloud"
+    },
+    {
+        "id": "679",
+        "src": "sorpresa",
+        "en": "surprise"
+    },
+    {
+        "id": "680",
+        "src": "tranquillo",
+        "en": "quiet"
+    },
+    {
+        "id": "681",
+        "src": "pietra",
+        "en": "stone"
+    },
+    {
+        "id": "682",
+        "src": "piccolo",
+        "en": "tiny"
+    },
+    {
+        "id": "683",
+        "src": "salita",
+        "en": "climb"
+    },
+    {
+        "id": "684",
+        "src": "fresco",
+        "en": "cool"
+    },
+    {
+        "id": "685",
+        "src": "design",
+        "en": "design"
+    },
+    {
+        "id": "686",
+        "src": "povero",
+        "en": "poor"
+    },
+    {
+        "id": "687",
+        "src": "lotto",
+        "en": "lot"
+    },
+    {
+        "id": "688",
+        "src": "esperimento",
+        "en": "experiment"
+    },
+    {
+        "id": "689",
+        "src": "fondo",
+        "en": "bottom"
+    },
+    {
+        "id": "690",
+        "src": "chiave",
+        "en": "key"
+    },
+    {
+        "id": "691",
+        "src": "ferro",
+        "en": "iron"
+    },
+    {
+        "id": "692",
+        "src": "singolo",
+        "en": "single"
+    },
+    {
+        "id": "693",
+        "src": "bastone",
+        "en": "stick"
+    },
+    {
+        "id": "694",
+        "src": "appartamento",
+        "en": "flat"
+    },
+    {
+        "id": "695",
+        "src": "venti",
+        "en": "twenty"
+    },
+    {
+        "id": "696",
+        "src": "pelle",
+        "en": "skin"
+    },
+    {
+        "id": "697",
+        "src": "sorriso",
+        "en": "smile"
+    },
+    {
+        "id": "698",
+        "src": "piega",
+        "en": "crease"
+    },
+    {
+        "id": "699",
+        "src": "foro",
+        "en": "hole"
+    },
+    {
+        "id": "700",
+        "src": "salto",
+        "en": "jump"
+    },
+    {
+        "id": "701",
+        "src": "bambino",
+        "en": "baby"
+    },
+    {
+        "id": "702",
+        "src": "otto",
+        "en": "eight"
+    },
+    {
+        "id": "703",
+        "src": "villaggio",
+        "en": "village"
+    },
+    {
+        "id": "704",
+        "src": "si incontrano",
+        "en": "meet"
+    },
+    {
+        "id": "705",
+        "src": "radice",
+        "en": "root"
+    },
+    {
+        "id": "706",
+        "src": "acquistare",
+        "en": "buy"
+    },
+    {
+        "id": "707",
+        "src": "aumentare",
+        "en": "raise"
+    },
+    {
+        "id": "708",
+        "src": "risolvere",
+        "en": "solve"
+    },
+    {
+        "id": "709",
+        "src": "metallo",
+        "en": "metal"
+    },
+    {
+        "id": "710",
+        "src": "se",
+        "en": "whether"
+    },
+    {
+        "id": "711",
+        "src": "spingere",
+        "en": "push"
+    },
+    {
+        "id": "712",
+        "src": "sette",
+        "en": "seven"
+    },
+    {
+        "id": "713",
+        "src": "paragrafo",
+        "en": "paragraph"
+    },
+    {
+        "id": "714",
+        "src": "terzo",
+        "en": "third"
+    },
+    {
+        "id": "715",
+        "src": "deve",
+        "en": "shall"
+    },
+    {
+        "id": "716",
+        "src": "tenuto",
+        "en": "held"
+    },
+    {
+        "id": "717",
+        "src": "capelli",
+        "en": "hair"
+    },
+    {
+        "id": "718",
+        "src": "descrivere",
+        "en": "describe"
+    },
+    {
+        "id": "719",
+        "src": "cuoco",
+        "en": "cook"
+    },
+    {
+        "id": "720",
+        "src": "piano",
+        "en": "floor"
+    },
+    {
+        "id": "721",
+        "src": "o",
+        "en": "either"
+    },
+    {
+        "id": "722",
+        "src": "risultato",
+        "en": "result"
+    },
+    {
+        "id": "723",
+        "src": "bruciare",
+        "en": "burn"
+    },
+    {
+        "id": "724",
+        "src": "collina",
+        "en": "hill"
+    },
+    {
+        "id": "725",
+        "src": "sicuro",
+        "en": "safe"
+    },
+    {
+        "id": "726",
+        "src": "gatto",
+        "en": "cat"
+    },
+    {
+        "id": "727",
+        "src": "secolo",
+        "en": "century"
+    },
+    {
+        "id": "728",
+        "src": "considerare",
+        "en": "consider"
+    },
+    {
+        "id": "729",
+        "src": "tipo",
+        "en": "type"
+    },
+    {
+        "id": "730",
+        "src": "legge",
+        "en": "law"
+    },
+    {
+        "id": "731",
+        "src": "bit",
+        "en": "bit"
+    },
+    {
+        "id": "732",
+        "src": "costa",
+        "en": "coast"
+    },
+    {
+        "id": "733",
+        "src": "copia",
+        "en": "copy"
+    },
+    {
+        "id": "734",
+        "src": "frase",
+        "en": "phrase"
+    },
+    {
+        "id": "735",
+        "src": "silenzioso",
+        "en": "silent"
+    },
+    {
+        "id": "736",
+        "src": "alto",
+        "en": "tall"
+    },
+    {
+        "id": "737",
+        "src": "sabbia",
+        "en": "sand"
+    },
+    {
+        "id": "738",
+        "src": "suolo",
+        "en": "soil"
+    },
+    {
+        "id": "739",
+        "src": "rotolo",
+        "en": "roll"
+    },
+    {
+        "id": "740",
+        "src": "temperatura",
+        "en": "temperature"
+    },
+    {
+        "id": "741",
+        "src": "dito",
+        "en": "finger"
+    },
+    {
+        "id": "742",
+        "src": "industria",
+        "en": "industry"
+    },
+    {
+        "id": "743",
+        "src": "valore",
+        "en": "value"
+    },
+    {
+        "id": "744",
+        "src": "lotta",
+        "en": "fight"
+    },
+    {
+        "id": "745",
+        "src": "bugia",
+        "en": "lie"
+    },
+    {
+        "id": "746",
+        "src": "battere",
+        "en": "beat"
+    },
+    {
+        "id": "747",
+        "src": "eccitare",
+        "en": "excite"
+    },
+    {
+        "id": "748",
+        "src": "naturale",
+        "en": "natural"
+    },
+    {
+        "id": "749",
+        "src": "vista",
+        "en": "view"
+    },
+    {
+        "id": "750",
+        "src": "senso",
+        "en": "sense"
+    },
+    {
+        "id": "751",
+        "src": "capitale",
+        "en": "capital"
+    },
+    {
+        "id": "752",
+        "src": "non sarà",
+        "en": "won’t"
+    },
+    {
+        "id": "753",
+        "src": "sedia",
+        "en": "chair"
+    },
+    {
+        "id": "754",
+        "src": "pericolo",
+        "en": "danger"
+    },
+    {
+        "id": "755",
+        "src": "frutta",
+        "en": "fruit"
+    },
+    {
+        "id": "756",
+        "src": "ricco",
+        "en": "rich"
+    },
+    {
+        "id": "757",
+        "src": "spesso",
+        "en": "thick"
+    },
+    {
+        "id": "758",
+        "src": "soldato",
+        "en": "soldier"
+    },
+    {
+        "id": "759",
+        "src": "processo",
+        "en": "process"
+    },
+    {
+        "id": "760",
+        "src": "operare",
+        "en": "operate"
+    },
+    {
+        "id": "761",
+        "src": "pratica",
+        "en": "practice"
+    },
+    {
+        "id": "762",
+        "src": "separato",
+        "en": "separate"
+    },
+    {
+        "id": "763",
+        "src": "difficile",
+        "en": "difficult"
+    },
+    {
+        "id": "764",
+        "src": "medico",
+        "en": "doctor"
+    },
+    {
+        "id": "765",
+        "src": "per favore",
+        "en": "please"
+    },
+    {
+        "id": "766",
+        "src": "proteggere",
+        "en": "protect"
+    },
+    {
+        "id": "767",
+        "src": "mezzogiorno",
+        "en": "noon"
+    },
+    {
+        "id": "768",
+        "src": "raccolto",
+        "en": "crop"
+    },
+    {
+        "id": "769",
+        "src": "moderno",
+        "en": "modern"
+    },
+    {
+        "id": "770",
+        "src": "elemento",
+        "en": "element"
+    },
+    {
+        "id": "771",
+        "src": "colpire",
+        "en": "hit"
+    },
+    {
+        "id": "772",
+        "src": "studente",
+        "en": "student"
+    },
+    {
+        "id": "773",
+        "src": "angolo",
+        "en": "corner"
+    },
+    {
+        "id": "774",
+        "src": "partito",
+        "en": "party"
+    },
+    {
+        "id": "775",
+        "src": "fornitura",
+        "en": "supply"
+    },
+    {
+        "id": "776",
+        "src": "la cui",
+        "en": "whose"
+    },
+    {
+        "id": "777",
+        "src": "individuare",
+        "en": "locate"
+    },
+    {
+        "id": "778",
+        "src": "anello",
+        "en": "ring"
+    },
+    {
+        "id": "779",
+        "src": "carattere",
+        "en": "character"
+    },
+    {
+        "id": "780",
+        "src": "insetto",
+        "en": "insect"
+    },
+    {
+        "id": "781",
+        "src": "catturato",
+        "en": "caught"
+    },
+    {
+        "id": "782",
+        "src": "periodo",
+        "en": "period"
+    },
+    {
+        "id": "783",
+        "src": "indicare",
+        "en": "indicate"
+    },
+    {
+        "id": "784",
+        "src": "radio",
+        "en": "radio"
+    },
+    {
+        "id": "785",
+        "src": "raggio",
+        "en": "spoke"
+    },
+    {
+        "id": "786",
+        "src": "atomo",
+        "en": "atom"
+    },
+    {
+        "id": "787",
+        "src": "umano",
+        "en": "human"
+    },
+    {
+        "id": "788",
+        "src": "storia",
+        "en": "history"
+    },
+    {
+        "id": "789",
+        "src": "effetto",
+        "en": "effect"
+    },
+    {
+        "id": "790",
+        "src": "elettrico",
+        "en": "electric"
+    },
+    {
+        "id": "791",
+        "src": "aspettare",
+        "en": "expect"
+    },
+    {
+        "id": "792",
+        "src": "osso",
+        "en": "bone"
+    },
+    {
+        "id": "793",
+        "src": "ferrovia",
+        "en": "rail"
+    },
+    {
+        "id": "794",
+        "src": "immaginare",
+        "en": "imagine"
+    },
+    {
+        "id": "795",
+        "src": "fornire",
+        "en": "provide"
+    },
+    {
+        "id": "796",
+        "src": "concordare",
+        "en": "agree"
+    },
+    {
+        "id": "797",
+        "src": "così",
+        "en": "thus"
+    },
+    {
+        "id": "798",
+        "src": "dolce",
+        "en": "gentle"
+    },
+    {
+        "id": "799",
+        "src": "donna",
+        "en": "woman"
+    },
+    {
+        "id": "800",
+        "src": "capitano",
+        "en": "captain"
+    },
+    {
+        "id": "801",
+        "src": "indovinare",
+        "en": "guess"
+    },
+    {
+        "id": "802",
+        "src": "necessario",
+        "en": "necessary"
+    },
+    {
+        "id": "803",
+        "src": "tagliente",
+        "en": "sharp"
+    },
+    {
+        "id": "804",
+        "src": "ala",
+        "en": "wing"
+    },
+    {
+        "id": "805",
+        "src": "creare",
+        "en": "create"
+    },
+    {
+        "id": "806",
+        "src": "prossimo",
+        "en": "neighbor"
+    },
+    {
+        "id": "807",
+        "src": "lavaggio",
+        "en": "wash"
+    },
+    {
+        "id": "808",
+        "src": "pipistrello",
+        "en": "bat"
+    },
+    {
+        "id": "809",
+        "src": "piuttosto",
+        "en": "rather"
+    },
+    {
+        "id": "810",
+        "src": "folla",
+        "en": "crowd"
+    },
+    {
+        "id": "811",
+        "src": "mais",
+        "en": "corn"
+    },
+    {
+        "id": "812",
+        "src": "confrontare",
+        "en": "compare"
+    },
+    {
+        "id": "813",
+        "src": "poesia",
+        "en": "poem"
+    },
+    {
+        "id": "814",
+        "src": "stringa",
+        "en": "string"
+    },
+    {
+        "id": "815",
+        "src": "campana",
+        "en": "bell"
+    },
+    {
+        "id": "816",
+        "src": "dipendere",
+        "en": "depend"
+    },
+    {
+        "id": "817",
+        "src": "carne",
+        "en": "meat"
+    },
+    {
+        "id": "818",
+        "src": "strofinare",
+        "en": "rub"
+    },
+    {
+        "id": "819",
+        "src": "tubo",
+        "en": "tube"
+    },
+    {
+        "id": "820",
+        "src": "famoso",
+        "en": "famous"
+    },
+    {
+        "id": "921",
+        "src": "dollaro",
+        "en": "dollar"
+    },
+    {
+        "id": "822",
+        "src": "ruscello",
+        "en": "stream"
+    },
+    {
+        "id": "823",
+        "src": "paura",
+        "en": "fear"
+    },
+    {
+        "id": "284",
+        "src": "vista",
+        "en": "sight"
+    },
+    {
+        "id": "825",
+        "src": "sottile",
+        "en": "thin"
+    },
+    {
+        "id": "826",
+        "src": "triangolo",
+        "en": "triangle"
+    },
+    {
+        "id": "827",
+        "src": "pianeta",
+        "en": "planet"
+    },
+    {
+        "id": "828",
+        "src": "fretta",
+        "en": "hurry"
+    },
+    {
+        "id": "829",
+        "src": "capo",
+        "en": "chief"
+    },
+    {
+        "id": "830",
+        "src": "colonia",
+        "en": "colony"
+    },
+    {
+        "id": "831",
+        "src": "orologio",
+        "en": "clock"
+    },
+    {
+        "id": "832",
+        "src": "miniera",
+        "en": "mine"
+    },
+    {
+        "id": "833",
+        "src": "cravatta",
+        "en": "tie"
+    },
+    {
+        "id": "834",
+        "src": "inserire",
+        "en": "enter"
+    },
+    {
+        "id": "835",
+        "src": "maggiore",
+        "en": "major"
+    },
+    {
+        "id": "836",
+        "src": "fresco",
+        "en": "fresh"
+    },
+    {
+        "id": "837",
+        "src": "ricerca",
+        "en": "search"
+    },
+    {
+        "id": "838",
+        "src": "inviare",
+        "en": "send"
+    },
+    {
+        "id": "839",
+        "src": "giallo",
+        "en": "yellow"
+    },
+    {
+        "id": "840",
+        "src": "pistola",
+        "en": "gun"
+    },
+    {
+        "id": "841",
+        "src": "consentire",
+        "en": "allow"
+    },
+    {
+        "id": "842",
+        "src": "stampa",
+        "en": "print"
+    },
+    {
+        "id": "843",
+        "src": "morto",
+        "en": "dead"
+    },
+    {
+        "id": "844",
+        "src": "spot",
+        "en": "spot"
+    },
+    {
+        "id": "845",
+        "src": "deserto",
+        "en": "desert"
+    },
+    {
+        "id": "846",
+        "src": "tuta",
+        "en": "suit"
+    },
+    {
+        "id": "847",
+        "src": "corrente",
+        "en": "current"
+    },
+    {
+        "id": "848",
+        "src": "ascensore",
+        "en": "lift"
+    },
+    {
+        "id": "840",
+        "src": "rosa",
+        "en": "rose"
+    },
+    {
+        "id": "850",
+        "src": "arrivare",
+        "en": "arrive"
+    },
+    {
+        "id": "851",
+        "src": "master",
+        "en": "master"
+    },
+    {
+        "id": "852",
+        "src": "pista",
+        "en": "track"
+    },
+    {
+        "id": "853",
+        "src": "genitore",
+        "en": "parent"
+    },
+    {
+        "id": "854",
+        "src": "riva",
+        "en": "shore"
+    },
+    {
+        "id": "855",
+        "src": "divisione",
+        "en": "division"
+    },
+    {
+        "id": "856",
+        "src": "foglio",
+        "en": "sheet"
+    },
+    {
+        "id": "857",
+        "src": "sostanza",
+        "en": "substance"
+    },
+    {
+        "id": "858",
+        "src": "favorire",
+        "en": "favor"
+    },
+    {
+        "id": "859",
+        "src": "collegare",
+        "en": "connect"
+    },
+    {
+        "id": "860",
+        "src": "Messaggio",
+        "en": "post"
+    },
+    {
+        "id": "861",
+        "src": "spendere",
+        "en": "spend"
+    },
+    {
+        "id": "862",
+        "src": "accordo",
+        "en": "chord"
+    },
+    {
+        "id": "863",
+        "src": "grasso",
+        "en": "fat"
+    },
+    {
+        "id": "864",
+        "src": "felice",
+        "en": "glad"
+    },
+    {
+        "id": "865",
+        "src": "originale",
+        "en": "original"
+    },
+    {
+        "id": "866",
+        "src": "quota",
+        "en": "share"
+    },
+    {
+        "id": "867",
+        "src": "stazione",
+        "en": "station"
+    },
+    {
+        "id": "868",
+        "src": "papà",
+        "en": "dad"
+    },
+    {
+        "id": "869",
+        "src": "pane",
+        "en": "bread"
+    },
+    {
+        "id": "870",
+        "src": "carica",
+        "en": "charge"
+    },
+    {
+        "id": "871",
+        "src": "corretto",
+        "en": "proper"
+    },
+    {
+        "id": "872",
+        "src": "bar",
+        "en": "bar"
+    },
+    {
+        "id": "873",
+        "src": "offerta",
+        "en": "offer"
+    },
+    {
+        "id": "874",
+        "src": "segmento",
+        "en": "segment"
+    },
+    {
+        "id": "875",
+        "src": "schiavo",
+        "en": "slave"
+    },
+    {
+        "id": "876",
+        "src": "anatra",
+        "en": "duck"
+    },
+    {
+        "id": "877",
+        "src": "immediato",
+        "en": "instant"
+    },
+    {
+        "id": "878",
+        "src": "mercato",
+        "en": "market"
+    },
+    {
+        "id": "879",
+        "src": "grado",
+        "en": "degree"
+    },
+    {
+        "id": "880",
+        "src": "popolare",
+        "en": "populate"
+    },
+    {
+        "id": "881",
+        "src": "pulcino",
+        "en": "chick"
+    },
+    {
+        "id": "882",
+        "src": "caro",
+        "en": "dear"
+    },
+    {
+        "id": "883",
+        "src": "nemico",
+        "en": "enemy"
+    },
+    {
+        "id": "884",
+        "src": "rispondere",
+        "en": "reply"
+    },
+    {
+        "id": "885",
+        "src": "bevanda",
+        "en": "drink"
+    },
+    {
+        "id": "886",
+        "src": "verificarsi",
+        "en": "occur"
+    },
+    {
+        "id": "887",
+        "src": "supporto",
+        "en": "support"
+    },
+    {
+        "id": "888",
+        "src": "discorso",
+        "en": "speech"
+    },
+    {
+        "id": "889",
+        "src": "natura",
+        "en": "nature"
+    },
+    {
+        "id": "890",
+        "src": "gamma",
+        "en": "range"
+    },
+    {
+        "id": "891",
+        "src": "vapore",
+        "en": "steam"
+    },
+    {
+        "id": "892",
+        "src": "moto",
+        "en": "motion"
+    },
+    {
+        "id": "893",
+        "src": "sentiero",
+        "en": "path"
+    },
+    {
+        "id": "894",
+        "src": "liquido",
+        "en": "liquid"
+    },
+    {
+        "id": "895",
+        "src": "log",
+        "en": "log"
+    },
+    {
+        "id": "896",
+        "src": "significava",
+        "en": "meant"
+    },
+    {
+        "id": "897",
+        "src": "quoziente",
+        "en": "quotient"
+    },
+    {
+        "id": "898",
+        "src": "denti",
+        "en": "teeth"
+    },
+    {
+        "id": "899",
+        "src": "guscio",
+        "en": "shell"
+    },
+    {
+        "id": "900",
+        "src": "collo",
+        "en": "neck"
+    },
+    {
+        "id": "901",
+        "src": "ossigeno",
+        "en": "oxygen"
+    },
+    {
+        "id": "902",
+        "src": "zucchero",
+        "en": "sugar"
+    },
+    {
+        "id": "903",
+        "src": "morte",
+        "en": "death"
+    },
+    {
+        "id": "904",
+        "src": "piuttosto",
+        "en": "pretty"
+    },
+    {
+        "id": "905",
+        "src": "abilità",
+        "en": "skill"
+    },
+    {
+        "id": "906",
+        "src": "donne",
+        "en": "women"
+    },
+    {
+        "id": "907",
+        "src": "stagione",
+        "en": "season"
+    },
+    {
+        "id": "908",
+        "src": "soluzione",
+        "en": "solution"
+    },
+    {
+        "id": "909",
+        "src": "magnete",
+        "en": "magnet"
+    },
+    {
+        "id": "910",
+        "src": "argento",
+        "en": "silver"
+    },
+    {
+        "id": "911",
+        "src": "grazie",
+        "en": "thank"
+    },
+    {
+        "id": "912",
+        "src": "ramo",
+        "en": "branch"
+    },
+    {
+        "id": "913",
+        "src": "partita",
+        "en": "match"
+    },
+    {
+        "id": "914",
+        "src": "suffisso",
+        "en": "suffix"
+    },
+    {
+        "id": "915",
+        "src": "particolarmente",
+        "en": "especially"
+    },
+    {
+        "id": "916",
+        "src": "fico",
+        "en": "fig"
+    },
+    {
+        "id": "917",
+        "src": "impaurito",
+        "en": "afraid"
+    },
+    {
+        "id": "918",
+        "src": "enorme",
+        "en": "huge"
+    },
+    {
+        "id": "919",
+        "src": "sorella",
+        "en": "sister"
+    },
+    {
+        "id": "920",
+        "src": "acciaio",
+        "en": "steel"
+    },
+    {
+        "id": "921",
+        "src": "discutere",
+        "en": "discuss"
+    },
+    {
+        "id": "922",
+        "src": "avanti",
+        "en": "forward"
+    },
+    {
+        "id": "923",
+        "src": "simile",
+        "en": "similar"
+    },
+    {
+        "id": "924",
+        "src": "guidare",
+        "en": "guide"
+    },
+    {
+        "id": "925",
+        "src": "esperienza",
+        "en": "experience"
+    },
+    {
+        "id": "926",
+        "src": "punteggio",
+        "en": "score (noun)"
+    },
+    {
+        "id": "927",
+        "src": "mela",
+        "en": "apple"
+    },
+    {
+        "id": "928",
+        "src": "comprato",
+        "en": "bought"
+    },
+    {
+        "id": "929",
+        "src": "portato",
+        "en": "led"
+    },
+    {
+        "id": "930",
+        "src": "pece",
+        "en": "pitch"
+    },
+    {
+        "id": "931",
+        "src": "cappotto",
+        "en": "coat"
+    },
+    {
+        "id": "932",
+        "src": "massa",
+        "en": "mass"
+    },
+    {
+        "id": "933",
+        "src": "scheda",
+        "en": "card"
+    },
+    {
+        "id": "934",
+        "src": "banda",
+        "en": "band (rubber)"
+    },
+    {
+        "id": "935",
+        "src": "corda",
+        "en": "rope"
+    },
+    {
+        "id": "936",
+        "src": "slittamento",
+        "en": "slip"
+    },
+    {
+        "id": "937",
+        "src": "vittoria",
+        "en": "win"
+    },
+    {
+        "id": "938",
+        "src": "sognare",
+        "en": "dream"
+    },
+    {
+        "id": "939",
+        "src": "sera",
+        "en": "evening"
+    },
+    {
+        "id": "940",
+        "src": "condizione",
+        "en": "condition"
+    },
+    {
+        "id": "941",
+        "src": "alimentazione",
+        "en": "feed"
+    },
+    {
+        "id": "942",
+        "src": "strumento",
+        "en": "tool"
+    },
+    {
+        "id": "943",
+        "src": "totale",
+        "en": "total"
+    },
+    {
+        "id": "944",
+        "src": "di base",
+        "en": "basic"
+    },
+    {
+        "id": "945",
+        "src": "odore",
+        "en": "smell"
+    },
+    {
+        "id": "946",
+        "src": "valle",
+        "en": "valley"
+    },
+    {
+        "id": "947",
+        "src": "né",
+        "en": "nor"
+    },
+    {
+        "id": "948",
+        "src": "doppio",
+        "en": "double"
+    },
+    {
+        "id": "949",
+        "src": "sedile",
+        "en": "seat (in a car)"
+    },
+    {
+        "id": "950",
+        "src": "continuare",
+        "en": "continue"
+    },
+    {
+        "id": "951",
+        "src": "blocco",
+        "en": "a block"
+    },
+    {
+        "id": "952",
+        "src": "grafico",
+        "en": "chart"
+    },
+    {
+        "id": "953",
+        "src": "cappello",
+        "en": "hat"
+    },
+    {
+        "id": "954",
+        "src": "vendere",
+        "en": "sell"
+    },
+    {
+        "id": "955",
+        "src": "successo",
+        "en": "success"
+    },
+    {
+        "id": "956",
+        "src": "azienda",
+        "en": "a company"
+    },
+    {
+        "id": "957",
+        "src": "sottrarre",
+        "en": "subtract"
+    },
+    {
+        "id": "958",
+        "src": "evento",
+        "en": "event"
+    },
+    {
+        "id": "959",
+        "src": "particolare",
+        "en": "particular"
+    },
+    {
+        "id": "960",
+        "src": "affare",
+        "en": "deal"
+    },
+    {
+        "id": "961",
+        "src": "nuoto",
+        "en": "swim"
+    },
+    {
+        "id": "962",
+        "src": "termine",
+        "en": "term"
+    },
+    {
+        "id": "963",
+        "src": "opposto",
+        "en": "opposite"
+    },
+    {
+        "id": "964",
+        "src": "moglie",
+        "en": "wife"
+    },
+    {
+        "id": "965",
+        "src": "scarpa",
+        "en": "shoe"
+    },
+    {
+        "id": "966",
+        "src": "spalla",
+        "en": "shoulder"
+    },
+    {
+        "id": "967",
+        "src": "spargere",
+        "en": "spread"
+    },
+    {
+        "id": "968",
+        "src": "organizzare",
+        "en": "arrange"
+    },
+    {
+        "id": "969",
+        "src": "campo",
+        "en": "a camp"
+    },
+    {
+        "id": "970",
+        "src": "inventare",
+        "en": "invent"
+    },
+    {
+        "id": "971",
+        "src": "cotone",
+        "en": "cotton"
+    },
+    {
+        "id": "972",
+        "src": "nascita",
+        "en": "birth"
+    },
+    {
+        "id": "973",
+        "src": "determinare",
+        "en": "determine"
+    },
+    {
+        "id": "974",
+        "src": "quarto di gallone",
+        "en": "quart"
+    },
+    {
+        "id": "975",
+        "src": "nove",
+        "en": "nine"
+    },
+    {
+        "id": "976",
+        "src": "camion",
+        "en": "truck"
+    },
+    {
+        "id": "977",
+        "src": "rumore",
+        "en": "noise"
+    },
+    {
+        "id": "978",
+        "src": "livello",
+        "en": "level"
+    },
+    {
+        "id": "979",
+        "src": "possibilità",
+        "en": "a chance"
+    },
+    {
+        "id": "980",
+        "src": "raccogliere",
+        "en": "gather"
+    },
+    {
+        "id": "981",
+        "src": "negozio",
+        "en": "a shop"
+    },
+    {
+        "id": "982",
+        "src": "tratto",
+        "en": "stretch (of land)"
+    },
+    {
+        "id": "983",
+        "src": "gettare",
+        "en": "throw"
+    },
+    {
+        "id": "984",
+        "src": "brillare",
+        "en": "shine"
+    },
+    {
+        "id": "985",
+        "src": "proprietà",
+        "en": "property"
+    },
+    {
+        "id": "986",
+        "src": "colonna",
+        "en": "column"
+    },
+    {
+        "id": "987",
+        "src": "molecola",
+        "en": "molecule"
+    },
+    {
+        "id": "988",
+        "src": "selezionare",
+        "en": "select"
+    },
+    {
+        "id": "989",
+        "src": "sbagliato",
+        "en": "wrong"
+    },
+    {
+        "id": "990",
+        "src": "grigio",
+        "en": "gray"
+    },
+    {
+        "id": "991",
+        "src": "ripetizione",
+        "en": "repeat"
+    },
+    {
+        "id": "992",
+        "src": "richiedere",
+        "en": "require"
+    },
+    {
+        "id": "993",
+        "src": "ampio",
+        "en": "broad"
+    },
+    {
+        "id": "994",
+        "src": "preparare",
+        "en": "prepare"
+    },
+    {
+        "id": "995",
+        "src": "sale",
+        "en": "salt"
+    },
+    {
+        "id": "996",
+        "src": "naso",
+        "en": "nose"
+    },
+    {
+        "id": "997",
+        "src": "plurale",
+        "en": "plural"
+    },
+    {
+        "id": "998",
+        "src": "rabbia",
+        "en": "anger"
+    },
+    {
+        "id": "999",
+        "src": "richiesta",
+        "en": "claim"
+    },
+    {
+        "id": "1000",
+        "src": "continente",
+        "en": "continent"
+    }
+]
